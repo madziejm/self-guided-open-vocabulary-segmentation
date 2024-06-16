@@ -1,1 +1,3 @@
-# self-guided-open-vocabulary-segmentation
+# Self Guided Open Vocabulary Segmentation
+
+See [report.md](report.md).
